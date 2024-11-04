@@ -1,2 +1,2 @@
-# BelezaR-pida
+# BelezaRápida
 Atividade UC8
